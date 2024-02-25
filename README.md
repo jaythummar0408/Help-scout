@@ -1,2 +1,2 @@
 # help-scout
-Live Link:- https://sidhantsuvagiya.github.io/Help-Scout/
+Live Link:- https://help-scout-beta.vercel.app/
